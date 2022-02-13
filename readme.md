@@ -1,5 +1,7 @@
-<h1 align="Left">Hi 👋, I'm Bruno Marques</h1>
+<h1 align="Left">Hi, I'm Bruno Marques</h1>
 <h3 align="Left">A webdesigner trying to become webdeveloper</h3>
+<p>I've been working building websites for the past 7 years using the wordpress cms but not in a code heavy enviroment.</p>
+<p>I'm now using my free time to learn more about code since i've been feeling a little bit stuck and unchallenged</p>
 
 - 🌱 I’m currently learning **Python** and **React**
 
