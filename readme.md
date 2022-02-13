@@ -1,11 +1,11 @@
 <h1 align="Left">Hi, I'm Bruno Marques</h1>
 <h3 align="Left">A webdesigner trying to become webdeveloper</h3>
-<p>I've been working building websites for the past 7 years using the wordpress cms but not in a code heavy enviroment.
+<p>I've been working, building websites, for the past 7 years using the wordpress cms but not in a code heavy enviroment.
 I'm now using my free time to learn more about code since i've been feeling a little bit stuck and unchallenged</p>
 
-- 🌱 I’m currently learning **Python** and **React**
+- I’m currently learning **Python** and **React**
 
-- 📫 How to reach me **hey@besmarques.eu**
+- How to reach me **hey@besmarques.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,7 @@ I'm now using my free time to learn more about code since i've been feeling a li
  ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besmarques&show_icons=true&theme=dracula&locale=en&layout=compact" alt="besmarques" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=besmarques&show_icons=true&theme=dracula&locale=en" alt="besmarques" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=besmarques&show_icons=true&theme=dracula&locale=en" alt="besmarques" /></p>
 
 ---
 
