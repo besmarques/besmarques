@@ -17,10 +17,10 @@ I'm now using my free time to learn more about code since i've been feeling a li
 
  ---
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=besmarques&show_icons=true&theme=dracula&locale=en" />
  </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=besmarques&show_icons=true&theme=dracula&locale=en&layout=compact" />
 </a>
 
