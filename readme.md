@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bruno Marques</h1>
-<h3 align="center">A webdesigner trying to become webdeveloper</h3>
+<h1 align="Left">Hi 👋, I'm Bruno Marques</h1>
+<h3 align="Left">A webdesigner trying to become webdeveloper</h3>
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python** and **React**
 
 - 📫 How to reach me **hey@besmarques.eu**
 
@@ -18,6 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=besmarques&show_icons=true&theme=dracula&locale=en" alt="besmarques" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besmarques&theme=dark" alt="besmarques" /></p>
-
-<div style="width:50%">teste</div>
-<div style="width:50%">teste2</div>
