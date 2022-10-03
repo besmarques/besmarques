@@ -1,4 +1,4 @@
-<img src="https://besmarques.eu/wp-content/uploads/2022/09/logo-no-tag.svg" />
+<div style="background:white;"><img src="[https://besmarques.eu/wp-content/uploads/2022/09/logo-no-tag.svg](https://besmarques.eu/wp-content/uploads/2022/08/logo-full-white.svg)" /></div>
 <h1 align="Left">Hi, I'm Bruno Marques</h1>
 <h3 align="Left">A webdesigner trying to become webdeveloper</h3>
 <p>I've been working, building websites, for the past 7 years using the wordpress cms but not in a code heavy enviroment.
