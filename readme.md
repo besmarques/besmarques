@@ -18,17 +18,17 @@ I'm now using my free time to learn more about code since i've been feeling a li
 
  ---
 
-<a href="#">
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=besmarques&show_icons=true&theme=dracula&title_color=8612ad&icon_color=70bde8&bg_color=1c1c1c&border_color=8612ad&locale=en" />
- </a>
 
-<a href="#">
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=besmarques&background=1c1c1c&currStreakNum=FFFFFF&stroke=FFFFFF&fire=8612ad&ring=8612ad&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&date_format=j/n/Y)](https://git.io/streak-stats)
- </a>
 
-<a href="#">
+
+
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=besmarques&show_icons=true&title_color=8612ad&bg_color=1c1c1c&border_color=8612ad&text_color=FFFFFF&locale=en" />
-</a>
+
 
 ---
 
