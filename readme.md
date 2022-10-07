@@ -19,7 +19,7 @@ I'm now using my free time to learn more about code since i've been feeling a li
  ---
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=besmarques&show_icons=true&theme=dracula&title_color=8612ad&icon_color=70bde8&bg_color=1c1c1c&border_color=8612ad&locale=en" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=besmarques&show_icons=true&theme=dracula&title_color=8612ad&icon_color=70bde8&bg_color=1c1c1c&border_color=FFFFFF&locale=en" />
 
 
 
@@ -27,7 +27,7 @@ I'm now using my free time to learn more about code since i've been feeling a li
 
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=besmarques&show_icons=true&title_color=8612ad&bg_color=1c1c1c&border_color=8612ad&text_color=FFFFFF&locale=en" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=besmarques&show_icons=true&title_color=8612ad&bg_color=1c1c1c&border_color=FFFFFF&text_color=FFFFFF&locale=en" />
 
 
 ---
