@@ -1,18 +1,17 @@
 <img src="http://besmarques.eu/wp-content/uploads/2022/09/social.png" />
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bruno Marques
-=====================================================================================================================================
+<h1>Hi! My name is Bruno Marques</h1>
 
 Web Designer / Full Stack Developer / Teacher Assistant
 -------------------------------------------------------
 
 Working has a “web designer” for the past 8 years even if this isn’t the right term to describe what i do. Learning full stack development and also helping others to learn. This is who i am!
 
-* 🌍  I'm based in Portugal
-* 🖥️  See my portfolio at [besmarques.eu](http://besmarques.eu)
-* ✉️  You can contact me at [hey@besmarques.eu](mailto:hey@besmarques.eu)
-* 🚀  I'm currently working on [nozigs](http://nozigs.com)
-* 🧠  I'm learning react redux
-* 🤝  I'm open to collaborating on Interesting projects. Just ping me.
+* 🌍  I'm based in Portugal
+* 🖥️  See my portfolio at [besmarques.eu](http://besmarques.eu)
+* ✉️  You can contact me at [hey@besmarques.eu](mailto:hey@besmarques.eu)
+* 🚀  I'm currently working on [nozigs](http://nozigs.com)
+* 🧠  I'm learning react redux
+* 🤝  I'm open to collaborating on Interesting projects. Just ping me.
 
 <a href="https://www.github.com/besmarques" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/besmarques?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
@@ -58,3 +57,8 @@ src="https://img.shields.io/github/followers/besmarques?logo=github&style=for-th
 <a href="http://www.github.com/besmarques"><img src="https://activity-graph.herokuapp.com/graph?username=besmarques&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/besmarques" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=besmarques&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/besmarques">
+<img
+align="right"
+src="https://besmarques.eu/wp-content/uploads/2022/09/face.svg" width="200px"></img></a>
